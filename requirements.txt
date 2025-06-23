@@ -1,0 +1,6 @@
+pip3 install torch torchvision
+pip install ultralytics
+pip install pillow
+pip install deepface
+pip install opencv-contrib-python==4.6.0.66
+pip install opencv-python-headless

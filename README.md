@@ -1,7 +1,7 @@
 # Description
 ## Restaurant Business Employee Tracking
 
-Welcome! This project is designed for a restaurant business use case. It tackles the challenge of monitoring café/restaurant staff and helps prevent any dishonest behavior.
+This project is designed for a restaurant business use case. It tackles the challenge of monitoring café/restaurant staff and helps prevent any dishonest behavior.
 
 ## How It Works
 - Employees wear a special uniform with shoulder patches in specific colors—each color corresponds to a particular employee.  
@@ -16,12 +16,7 @@ Feel free to explore, contribute, and adapt this project to suit your restaurant
 # Set Up
 ## Installation
 ```
-pip3 install torch torchvision
-pip install ultralytics
-pip install pillow
-pip install deepface
-pip install opencv-contrib-python==4.6.0.66
-pip install opencv-python-headless
+pip install -r requirements.txt
 ```
 
 ## Load weights
