@@ -1,0 +1,2 @@
+In this directory should be folders called like names of your staff.
+In each folder you should put at least 1 picture of corresponding person
