@@ -48,4 +48,4 @@ python main.py
 ```
 
 # Example of work
-![til](example/example.gif)
+<img src="example/example.gif" width="600">
